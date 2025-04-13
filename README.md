@@ -43,9 +43,24 @@ This project implements a real-time person-following robot using YOLOv11 object 
 - OpenCV (`pip install opencv-python`)
 - Realsense SDK (optional for hardware)
 
+---
 
-
-🔧 Setup
+## 🔧 Setup
 
 ```bash
 pip install ultralytics opencv-python
+
+```
+
+
+📸 Demo
+![Screenshot 2025-04-11 174549](https://github.com/user-attachments/assets/ebe42781-d14a-4de3-8cd0-020909420ba6)
+
+
+👨‍💻 Author
+Mohamed Ali Jomaa Ghouil
+Engineering Student — Computer Vision, Robotics
+
+
+📄 License
+This project is open-source under the ENISo License.
